@@ -1,0 +1,72 @@
+/* Fonts */
+@font-face {
+    font-family: 'Tui';
+    src: url('../fonts/tuitype.eot');
+    src: url('../fonts/tuitype.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/tuitype.woff2') format('woff2'),
+         url('../fonts/tuitype.woff') format('woff'),
+         url('../fonts/tuitype.ttf') format('truetype'),
+         url('../fonts/tuitype.svg#tuityperegular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Tui';
+    src: url('../fonts/tuitypebd.eot');
+    src: url('../fonts/tuitypebd.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/tuitypebd.woff2') format('woff2'),
+         url('../fonts/tuitypebd.woff') format('woff'),
+         url('../fonts/tuitypebd.ttf') format('truetype'),
+         url('../fonts/tuitypebd.svg#tuitypebold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+}
+
+// @font-face {
+//     font-family: 'Tui';
+//     src: url('../fonts/tuitypeit.eot');
+//     src: url('../fonts/tuitypeit.eot?#iefix') format('embedded-opentype'),
+//          url('../fonts/tuitypeit.woff2') format('woff2'),
+//          url('../fonts/tuitypeit.woff') format('woff'),
+//          url('../fonts/tuitypeit.ttf') format('truetype'),
+//          url('../fonts/tuitypeit.svg#tuitypeitalic') format('svg');
+//     font-weight: 400;
+//     font-style: italic;
+// }
+
+// @font-face {
+//     font-family: 'Tui';
+//     src: url('../fonts/tuitypebdit.eot');
+//     src: url('../fonts/tuitypebdit.eot?#iefix') format('embedded-opentype'),
+//          url('../fonts/tuitypebdit.woff2') format('woff2'),
+//          url('../fonts/tuitypebdit.woff') format('woff'),
+//          url('../fonts/tuitypebdit.ttf') format('truetype'),
+//          url('../fonts/tuitypebdit.svg#tuitypebold_italic') format('svg');
+//     font-weight: 700;
+//     font-style: italic;
+// }
+
+@font-face {
+    font-family: 'Tui';
+    src: url('../fonts/tuitypelt.eot');
+    src: url('../fonts/tuitypelt.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/tuitypelt.woff2') format('woff2'),
+         url('../fonts/tuitypelt.woff') format('woff'),
+         url('../fonts/tuitypelt.ttf') format('truetype'),
+         url('../fonts/tuitypelt.svg#tuitype_lightregular') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+// @font-face {
+//     font-family: 'Tui';
+//     src: url('../fonts/tuitypeltit.eot');
+//     src: url('../fonts/tuitypeltit.eot?#iefix') format('embedded-opentype'),
+//          url('../fonts/tuitypeltit.woff2') format('woff2'),
+//          url('../fonts/tuitypeltit.woff') format('woff'),
+//          url('../fonts/tuitypeltit.ttf') format('truetype'),
+//          url('../fonts/tuitypeltit.svg#tuitype_lightitalic') format('svg');
+//     font-weight: 300;
+//     font-style: italic;
+// }
